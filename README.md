@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @luantien
+- 👀 I’m interested in PHP, Python, AWS, and Microservices.
+- 🌱 I’m currently learning Python in advanced.
+- 📫 How to reach me? Just simply send me an email to luantien411@gmail.com.
